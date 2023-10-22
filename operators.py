@@ -23,5 +23,5 @@ print(f"Division: {operation}")
 # Nota:
 ## posso consigliarti l'utilizzo di chatbot come chatGPT,
 # è molto utile per la programmazione, perchè ti fa vedere direttamente il codice,
-# basta che tu inserisca una istruzione, nel caso son sempre contento di darti una mano(ne ho due ^_^)
+# basta che tu inserisca una istruzione, nel caso son sempre contento di darti una mano <(^ v ^)>
 ## 
